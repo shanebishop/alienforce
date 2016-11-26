@@ -1,6 +1,8 @@
 # alienforce
 Python Variation of Robert Epps's 1990s computer game Alienforce
 
+NOTE: SimpleGraphics is a helper library that was not written by me; it is simply required for my code to run properly.
+
 This repository contains source code written in python which emulate a program that was written by Microsoft software developer Robert Epps in C in the 1990s. Epps's original game was written as a personal project, but it was later rewritten and revamped, and then distributed in one of Microsoft's Entertainment Packs for the Windows 9x family of operating systems.
 
 This project was implemented in stages, as evidenced by the different names of the individual .py files.
